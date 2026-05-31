@@ -24,4 +24,3 @@ spec:
 ## Current Services
 
 - (Services will be listed here as they are added)
-- e2e27955 (python/fastapi)
